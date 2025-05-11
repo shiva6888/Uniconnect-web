@@ -1,0 +1,31 @@
+// Sample data (e.g., src/data/jobs.json)
+[
+    {
+      "id": "job001",
+      "role": "Frontend Developer",
+      "location": "Remote",
+      "hrName": "Shruthi",
+      "createdDate": "2024-07-20",
+      "description": "We are looking for a skilled Frontend Developer proficient in React and Material UI to join our dynamic team. You will be responsible for building user-facing features and ensuring a seamless user experience.",
+      "applyLink": "#" // Placeholder link
+    },
+    {
+      "id": "job002",
+      "role": "Backend Engineer",
+      "location": "New York, NY",
+      "hrName": "Shiva",
+      "createdDate": "2024-07-18",
+      "description": "Seeking a Backend Engineer experienced with Node.js and database management. You will work on server-side logic, database interactions, and API development.",
+       "applyLink": "#" // Placeholder link
+    },
+    {
+      "id": "job003",
+      "role": "Cloud Engineer",
+      "location": "Austin, TX",
+      "hrName": "Farhana",
+      "createdDate": "2024-07-15",
+      "description": "Join our infrastructure team as a Cloud Engineer. Experience with AWS or GCP, containerization (Docker, Kubernetes), and CI/CD pipelines is required.",
+       "applyLink": "#" // Placeholder link
+    }
+  ]
+  
